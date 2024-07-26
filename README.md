@@ -2,6 +2,12 @@
 
 Welcome to the Basic FinTech Platform, a powerful tool designed to help you effortlessly manage and monitor your transactions. This comprehensive user manual will guide you through the website's features and functionalities to ensure you make the most of this valuable resource.
 
+
+https://github.com/user-attachments/assets/d1d36122-d6b0-4fbe-a8f7-cdc3a5e47e54
+
+
+
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -24,7 +30,6 @@ Upon running in your local host, you'll be directed to the dashboard page, which
 ## Adding Deposits
 
 To record your deposit, access the financial management tool and locate the "Add Deposit" button. Here, you'll input the income amount, date, category, and any relevant notes. By clicking "Save," you'll seamlessly integrate this deposit entry into your records. Consistently tracking your income enables a thorough understanding of your financial standing.
-<img width="826" alt="Screenshot 2023-08-09 at 1 23 49 PM" src="https://github.com/satyamgupta0704/Expense-Tracker/assets/103809254/8db061c5-ad0b-4910-91f1-d7209f489b3d">
 
 
 ## Adding Withdrawls
